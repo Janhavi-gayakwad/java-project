@@ -90,8 +90,7 @@ Sai Subhash Kashid
 ---
 
 ## GitHub Repository
-(Replace this with your own link)
-
+[My Fruit Shop Project](https://github.com/Janhavi-gayakwad/java-project/tree/main/JavaProject-main)
 ---
 
 ## License
